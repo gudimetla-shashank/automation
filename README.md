@@ -26,16 +26,16 @@ Then, download and install the required dependencies, including Selenium WebDriv
 After setting up the project, you can execute the automation script by following these steps:
 Set the path to the WebDriver executable in the Main.java file.
 Compile the Main.java file using the Java compiler:
--javac Main.java
--java Main
+- javac Main.java
+- java Main
 Or,you can use your desirable compilers like intellij or eclipse.
 
 # Challenges faced
 All the process has been automated except the captcha part ,it can be also automate by some alternatives:
--By taking the permission from the organization of the website to skip the captcha part or reducing the security affairs regarding to the captcha
--Or by using the api's which are of paid versions, the api's are the captcha solvers which the individual api's are having the price of their accuracy of cracking the captcha.
+- By taking the permission from the organization of the website to skip the captcha part or reducing the security affairs regarding to the captcha
+- Or by using the api's which are of paid versions, the api's are the captcha solvers which the individual api's are having the price of their accuracy of cracking the captcha.
 
 # Demo video
--Explanation of the code : 0.00 to 3.25
--output of the code : 3.25 to 4.40
--challenges faced : 4.40 to 6.10
+- Explanation of the code : 0.00 to 3.25
+- output of the code : 3.25 to 4.40
+- challenges faced : 4.40 to 6.10
