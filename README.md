@@ -35,7 +35,7 @@ All the process has been automated except the captcha part ,it can be also autom
 -By taking the permission from the organization of the website to skip the captcha part or reducing the security affairs regarding to the captcha
 -Or by using the api's which are of paid versions, the api's are the captcha solvers which the individual api's are having the price of their accuracy of cracking the captcha.
 
-#Demo video
+# Demo video
 -Explanation of the code : 0.00 to 3.25
 -output of the code : 3.25 to 4.40
 -challenges faced : 4.40 to 6.10
