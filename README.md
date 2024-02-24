@@ -39,3 +39,5 @@ All the process has been automated except the captcha part ,it can be also autom
 - Explanation of the code : 0.00 to 3.25
 - output of the code : 3.25 to 4.40
 - challenges faced : 4.40 to 6.10
+
+FOR THE DEMO VIDEO PLS CHECK THE ISSUES TAB
