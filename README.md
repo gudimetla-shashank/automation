@@ -1,4 +1,4 @@
-# moveinsync
+# MOVEINSYNC
 
 # Selenium WebDriver Automation Project
 
